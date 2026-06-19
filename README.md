@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Manasa Sige👋
+About Me
+💻Aspiring Frontend Developer passionate about creating responsive and user-friendly web applications.
+🌐 Passionate about Web Development and Technology.
+🚀 Interested in building responsive and user-friendly websites.
+📚 Continuously learning new technologies and improving my skills.
 
-<!--
-**SigeManasa/SigeManasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning
 
-Here are some ideas to get you started:
+📘 Advanced JavaScript (ES6+)
+⚛️ React.js Development
+🖥️ Node.js and Backend Development
+🗄️Database Management with MySQL
+🚀 Software Development Best Practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals
+
+🎯 Build real-world full-stack web applications
+🧠 Strengthen problem-solving and coding skills
+⚛️ Master React.js and Node.js development
+💼 Secure a Software Engineer role in a leading organization
+🚀 Continuously learn emerging technologies and industry best practices
+
+📫 Connect With Me
+
+🐙 GitHub: 
+
+💼 LinkedIn: www.linkedin.com/in/manasa-sige-653985266
+
+📧 Email: sigemanasa@gmail.com
+
+💡 Always open to learning, collaboration, and exciting opportunities in software development.
+
